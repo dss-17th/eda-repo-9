@@ -12,10 +12,17 @@ def WordCount(df, column_name, delval="정보없음", column_name1="영화명",r
     from konlpy.tag import Okt; t = Okt()
     import pandas as pd
     import seaborn as sns
-    from DeleteVal import DeleteVal
-    from WordCount import WordCount
+
+    from module.DeleteVal import DeleteVal
+    from module.WordCount import WordCount
     import matplotlib.pylab as plt
-    stop_words = pd.read_csv('한국어불용어100.txt', sep = "\t", engine='python')["stop"]
+    
+    import os
+    file_path = os.getcwd()
+    file_path 
+    file_path = file_path +"/" + "data" + "/" +"한국어불용어100.txt"
+    print(file_path)
+    stop_words = pd.read_csv(file_path, sep = "\t", engine='python')["stop"]
     stop_words = list(stop_words)
     
     # DeleteVal from columns and filter by columns1
