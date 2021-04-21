@@ -7,4 +7,4 @@ def ColumnNanInfo(df, column_name, rval=2):
     num1 = (df[column_name] == "정보없음").sum()
     num2 = len(df[column_name])
     percent = round((num1/num2) * 100, rval)
-    print(f" {column_name} 중 정보없음의 퍼센트는 {percent} 입니다")
+    print(f" {column_name}열 값중 정보없음(nan값)의 퍼센트는 {percent} 입니다")
