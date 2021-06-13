@@ -33,7 +33,7 @@
 
 <br>
 <p>
-<img src='https://user-images.githubusercontent.com/72845895/121806278-2d26c200-cc8a-11eb-9602-8bf4752a0a98.png' width='475'> <img src='https://user-images.githubusercontent.com/72845895/121806287-3021b280-cc8a-11eb-9138-74e6ef904df3.png' width='475'> <img src='https://user-images.githubusercontent.com/72845895/121806279-2dbf5880-cc8a-11eb-94f0-51377412d4a8.png'></p>
+<img src='https://user-images.githubusercontent.com/72845895/121806278-2d26c200-cc8a-11eb-9602-8bf4752a0a98.png' width='480'> <img src='https://user-images.githubusercontent.com/72845895/121806287-3021b280-cc8a-11eb-9138-74e6ef904df3.png' width='480'> <img src='https://user-images.githubusercontent.com/72845895/121806279-2dbf5880-cc8a-11eb-94f0-51377412d4a8.png'></p>
 <br>
 
 - 전체 개봉 영화 중에는 청소년 관람불가 작품이 많고 장르적으로는 독립/예술 영화는 다큐멘터리, 일반 영화는 멜로/로맨스 작품이 가장 많이 개봉
