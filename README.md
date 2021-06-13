@@ -32,14 +32,14 @@
 - 2018년부터 독립/예술 영화의 지속적인 감소세가 보이고 있었으며 2019년에는 예년 수준으로 잠시 회복했으나 2020년 코로나로 인하여 다시 또 하락
 
 <br>
-<p align="center"> <img src='https://user-images.githubusercontent.com/72845895/121806278-2d26c200-cc8a-11eb-9602-8bf4752a0a98.png' width='420'> <img src='https://user-images.githubusercontent.com/72845895/121806287-3021b280-cc8a-11eb-9138-74e6ef904df3.png' width='420'> <img src='https://user-images.githubusercontent.com/72845895/121806279-2dbf5880-cc8a-11eb-94f0-51377412d4a8.png'></p>
+<p align="center"> <img src='https://user-images.githubusercontent.com/72845895/121806278-2d26c200-cc8a-11eb-9602-8bf4752a0a98.png' width='415'> <img src='https://user-images.githubusercontent.com/72845895/121806287-3021b280-cc8a-11eb-9138-74e6ef904df3.png' width='415'> <img src='https://user-images.githubusercontent.com/72845895/121806279-2dbf5880-cc8a-11eb-94f0-51377412d4a8.png'></p>
 <br>
 
 - 전체 개봉 영화 중에는 청소년 관람불가 작품이 많고 장르적으로는 독립/예술 영화는 다큐멘터리, 일반 영화는 멜로/로맨스 작품이 가장 많이 개봉
 - 특이하게 일반영화에서는 성인물 작품 수가 많음 
 
 <br>
-<p align="center"> <img src='https://user-images.githubusercontent.com/72845895/121806296-32840c80-cc8a-11eb-9013-0de07d06b5c4.png' width='420'> <img src='https://user-images.githubusercontent.com/72845895/121806292-31eb7600-cc8a-11eb-9b54-6805641d530b.png' width='420'> <img src='https://user-images.githubusercontent.com/72845895/121806285-2ef08580-cc8a-11eb-81b0-fa6eba5b6d7f.png'></p>
+<p align="center"> <img src='https://user-images.githubusercontent.com/72845895/121806296-32840c80-cc8a-11eb-9013-0de07d06b5c4.png' width='415'> <img src='https://user-images.githubusercontent.com/72845895/121806292-31eb7600-cc8a-11eb-9b54-6805641d530b.png' width='415'> <img src='https://user-images.githubusercontent.com/72845895/121806285-2ef08580-cc8a-11eb-81b0-fa6eba5b6d7f.png'></p>
 <br>
 
 
@@ -53,7 +53,7 @@
 - 독립/예술 영화의 서울 관객수와 전국 관객수는 크게 차이가 나지 않음
 
 <br>
-<p align="center"> <img width="420" height='300' alt="rosechart1" src="https://user-images.githubusercontent.com/72845895/121806288-30ba4900-cc8a-11eb-9c0d-3ca90876e5e8.png"><img width="420" height='300' alt="rosechart2" src="https://user-images.githubusercontent.com/72845895/121806291-3152df80-cc8a-11eb-89ea-fdbf9162fb45.png"></p>
+<p align="center"> <img width="415" height='300' alt="rosechart1" src="https://user-images.githubusercontent.com/72845895/121806288-30ba4900-cc8a-11eb-9c0d-3ca90876e5e8.png"><img width="415" height='300' alt="rosechart2" src="https://user-images.githubusercontent.com/72845895/121806291-3152df80-cc8a-11eb-89ea-fdbf9162fb45.png"></p>
 <br>
 
 
@@ -62,7 +62,7 @@
 
 <br>
 <p>
-<img src='https://user-images.githubusercontent.com/72845895/121806299-33b53980-cc8a-11eb-87ae-7c3280329bce.png' width='420'><img src='https://user-images.githubusercontent.com/72845895/121806298-331ca300-cc8a-11eb-80b9-b2668d59aeb6.png' width='420'></p>
+<img src='https://user-images.githubusercontent.com/72845895/121806299-33b53980-cc8a-11eb-87ae-7c3280329bce.png' width='415'><img src='https://user-images.githubusercontent.com/72845895/121806298-331ca300-cc8a-11eb-80b9-b2668d59aeb6.png' width='415'></p>
 <br>
 
 
