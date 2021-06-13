@@ -31,7 +31,7 @@ df = pd.read_csv('./data/KoreaMovieData.csv', thousands = ',' )
 df.columns = df.columns.str.replace('\n','')
 df.set_index("순번", inplace = True)
 
-# Filling missing value :0 
+# Filling missing value :"정보없음" 
 df = df.fillna("정보없음")
 
 # Rank Criteria Shift 
@@ -39,6 +39,10 @@ raking_df = []
 for i in df["등급"]:
     raking_df.append(rating(i))
 df['등급'] = raking_df
+
+# 서울매출액 정보없음값 0으로 대체
+df["서울매출액"][df["서울매출액"] == "정보없음"] = 0 
+df["서울매출액"] = df["서울매출액"].astype(int)
 
 # movie type split Indie film | film
 indiefilm = df[df["영화구분"] == "독립/예술영화"]
