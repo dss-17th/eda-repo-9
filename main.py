@@ -47,3 +47,26 @@ df["서울매출액"] = df["서울매출액"].astype(int)
 # movie type split Indie film | film
 indiefilm = df[df["영화구분"] == "독립/예술영화"]
 film = df[df["영화구분"] == "일반영화"] 
+
+# exploratory Data Analysis
+
+## 1. count movie number by movie type
+
+ratio = df['영화구분'].value_counts()
+labels = df['영화구분'].value_counts().index
+wedgeprops = {'width':0.7, 'edgecolor':'w', 'linewidth':5}
+colors = ['seagreen','mediumpurple']
+explode = [0, 0.10]
+
+plt.figure(figsize=(15,8))
+
+plt.pie(ratio, labels=labels, autopct='%.0f%%', startangle=180, counterclock=True,
+       wedgeprops=wedgeprops, colors=colors, textprops={'fontsize': 20}, explode = explode)
+
+plt.text(1.4, 1, f"독립영화 작품수 {df['영화구분'].value_counts().values[1]}", fontsize=15)
+plt.text(1.4, 0.8, f"일반영화 작품수 {df['영화구분'].value_counts().values[0]}", fontsize=15)
+
+plt.axis('equal')
+plt.title('영화 구분에 따른 전체 개봉영화 작품수', fontsize=20)
+plt.savefig("./image/piechart1.png")
+plt.show()
