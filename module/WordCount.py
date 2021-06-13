@@ -44,7 +44,7 @@ def WordCount(df, column_name, delval="정보없음", column_name1="영화명",r
     plt.figure(figsize=(15,8))
     plt.title(f"자주 쓰인 단어 {rank}개", fontsize=20)
     sns.barplot(list(x), list(y), palette="Dark2")
-    plt.savefig("./images/wordcount.png")
+    plt.savefig("./images/wordcount.png", facecolor='#ffffff')
     plt.show()
     
     # return Rank_data for next use 
