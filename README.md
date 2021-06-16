@@ -1,9 +1,9 @@
 [![Python Badge](http://img.shields.io/badge/-Python%20-blue?style=flat-square&fontColor&logoColor=yellow&logo=python&link=https://www.python.org/)](https://www.python.org/) [![Numpy Badge](http://img.shields.io/badge/-Numpy%20-013243?style=flat-square&&logoColor=white&logo=numpy&link=https://numpy.org/)](https://numpy.org/) [![Pandas Badge](http://img.shields.io/badge/-Pandas%20-150458?style=flat-square&logoColor=white&logo=pandas&link=https://pandas.pydata.org/)](https://pandas.pydata.org/) [![Matplotlib Badge](http://img.shields.io/badge/-Matplotlib%20-2350A9?style=flat-square&logoColor=white&logo=matplotlib&link=https://matplotlib.org/)](https://matplotlib.org/) [![Seaborn Badge](http://img.shields.io/badge/-Seaborn%20-212E50?style=flat-square&logoColor=white&logo=seaborn&link=https://seaborn.pydata.org/)](https://seaborn.pydata.org/) [![Plotly Badge](http://img.shields.io/badge/-Plotly%20-3F4F75?style=flat-square&logoColor=white&logo=plotly&link=https://plotly.com/)](https://plotly.com/) [![Pyecharts Badge](http://img.shields.io/badge/-Pyecharts%20-34E0A1?style=flat-square&logoColor=black&logo=pyecharts&link=https://pyecharts.org/)](https://pyecharts.org/) [![Jupyter Badge](http://img.shields.io/badge/-Jupyter%20-orange?style=flat-square&&logoColor=white&logo=jupyter&link=https://jupyter.org/)](https://jupyter.org/)
 
  #### 역활 분담 : 
- > 정솔 : 데이터를 가장 잘 설명할수 있는 시각화, 영화를 너무 좋아하면서 생긴 도메인 지식 제공
+ > 정솔 : 데이터 전처리, 데이터 시각화
  >
- > flycode77 : 데이터 정리 및 코드 정리!
+ > 정현석 : 데이터 전처리, 리팩토링
 
 
 <h1><b> KoreaMovie_EDA </b></h1>
